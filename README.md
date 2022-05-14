@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @introspkt
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5, CSS and Javascript
+- 🌱 I’m currently taking part in a full stack developer program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
