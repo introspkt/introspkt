@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zarina
-- 👀 I’m interested in web development
+- 👀 I’m interested learning full stack development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 
